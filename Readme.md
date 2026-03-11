@@ -1,4 +1,4 @@
-# Análise de Complexidade Computacional – Fatorial e Fibonacci em C#
+# Análise de Complexidade Computacional – Fatorial e Fibonacci em C# e Java
 
 ## PROJETO POR:
     ### LUIZ SANTANA DE ARAUJO - N047HF6
