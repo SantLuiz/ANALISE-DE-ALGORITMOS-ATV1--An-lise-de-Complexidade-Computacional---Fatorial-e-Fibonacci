@@ -68,7 +68,7 @@ A medição é feita utilizando:
 O valor exibido corresponde ao aumento de memória utilizado durante a execução.
 
 
-====================================================================================
+============================================================================
 
 # Factorial Master: Estudo de Complexidade Computacional e Escalabilidade em Java
 
