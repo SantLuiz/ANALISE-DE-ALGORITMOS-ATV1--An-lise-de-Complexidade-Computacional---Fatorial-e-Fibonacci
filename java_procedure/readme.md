@@ -64,4 +64,5 @@ Com base nos testes realizados com **500.000 iterações**, observamos os seguin
 
 1. Compile os fontes:
    ```bash
-   javac Main.java FactorialMaster.java
+   javac Main.java
+   FactorialMaster.java
