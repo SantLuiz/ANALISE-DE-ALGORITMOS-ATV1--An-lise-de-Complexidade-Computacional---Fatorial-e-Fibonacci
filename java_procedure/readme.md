@@ -275,7 +275,7 @@ Durante o desenvolvimento foi possível observar na prática:
 ### Impacto do tipo de dado
 
 * `long` → **8 bytes**
-* `BigInteger` → cerca de **80 bytes**
+* `BigInteger` → cerca de **80 bytes** (em cada instância)
 
 Ou seja, **aproximadamente 10x mais memória**.
 
